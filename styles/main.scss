@@ -1,0 +1,32 @@
+@import "compass_twitter_bootstrap";
+@import "compass_twitter_bootstrap_responsive";
+@import "layout/search";
+
+
+.page-title{
+	margin-top: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+.h3 {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.search .search-box {
+	margin-top: 30px;
+	width: 340px;
+}
+
+.search .btn {
+	margin-top: 30px;
+	padding: 8px;
+}
+
+.recipe {
+	display:block;
+
+}
